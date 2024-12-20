@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @Edwinmwangi-44paid
-- 👀 I’m interested in  Machine laerning
-- 🌱 I’m currently learning Javascript,  node js framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Edwinmwangi-44paid/Edwinmwangi-44paid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello Iam Edwin mwangi karungo. Iam  a passionate junior developer with a growing expertise in software development. Dedicated to learning and building innovative solutions, I possesse a strong foundation in coding and a keen interest in advancing his skills. With a commitment to problem-solving and creativity, iam  eager to contribute to impactful projects while continuously expanding my knowledge in the tech industry. Thank you
