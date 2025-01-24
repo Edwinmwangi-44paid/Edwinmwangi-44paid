@@ -7,6 +7,7 @@
 - 📫 How to reach me **edumwas4735@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p> <a href="www.linkedin.com/in/edwin-mwangi-9370b7313">linked in<a> <p/>
 <p align="left">
 </p>
 
