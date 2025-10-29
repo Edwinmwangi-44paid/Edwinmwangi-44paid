@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/edwin-mwangi-9370b7313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/eduu254" target="_blank">
+  <a href="https://x.com/EduuYT554045?t=BtuftkgODXhyy5Sv6TcdoQ&s=09" target="_blank">
     <img src="https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
 </p>
