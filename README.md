@@ -27,7 +27,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://eduportifolio.netlify.app" target="_blank">
+  <a href="https://eduuportifolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%231DA1F2?style=for-the-badge&logo=Portfolio&logoColor=white" />
   </a>
   <a href="https://github.com/Edwinmwangi-44paid" target="_blank">
