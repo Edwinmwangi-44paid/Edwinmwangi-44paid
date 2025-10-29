@@ -1,21 +1,95 @@
-<h3 align="center">A passionate software developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwinmwangi-44paid" alt="edwinmwangi-44paid" /></a> </p>
-
-- 🔭 I’m currently working on **python**
-
-- 📫 How to reach me **edumwas4735@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p> <a href="www.linkedin.com/in/edwin-mwangi-9370b7313">linked in<a> <p/>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&lines=Software+Engineer;Clean+Code+Advocate;Builder+of+Useful+Things" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinmwangi-44paid&show_icons=true&locale=en&layout=compact" alt="edwinmwangi-44paid" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Building%20solutions%20one%20line%20at%20a%20time.-FFA500?style=for-the-badge&logoColor=white&labelColor=000000&color=000000" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwinmwangi-44paid&show_icons=true&locale=en" alt="edwinmwangi-44paid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinmwangi-44paid&" alt="edwinmwangi-44paid" /></p>
+
+
+<h3 align="center">
+  <strong>Software Engineer · Creative Developer · Curious Technologist</strong>
+</h3>
+
+
+<p align="center">
+  I build reliable software with a focus on clarity, structure, and long-term usability. <br />
+  Quietly passionate about clean code, thoughtful interfaces, and systems that make sense.
+</p>
+
+
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://eduportifolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%231DA1F2?style=for-the-badge&logo=Portfolio&logoColor=white" />
+  </a>
+  <a href="https://github.com/edwinmwangi-44paid" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/njuguna-kelvin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/eduu254" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### Highlights
+- Software engineer focused on building systems that are reliable, efficient, and easy to maintain.
+
+- I care about clean code, thoughtful design, and solving real problems.
+
+- Comfortable working across the stack; backend, frontend, and everything in between.
+
+- Curious about AI and how it can be applied to useful, everyday tools.
+
+- Open to collaboration, feedback, and learning better ways to build.
+
+-My main favourite  language  🐍python🐍
+
+---
+
+###  Tech Stack
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" alt="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" alt="Django" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" alt="Java" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" alt="MySQL" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" alt="GitHub" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" alt="AWS" />
+</p>
+
+---
+
+### GitHub At A Glance
+
+<p align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=NjugunaKelvin&show_icons=true&theme=transparent" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NjugunaKelvin&layout=compact&theme=transparent" />
+</p>
+
+
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NjugunaKelvin&style=for-the-badge&color=orange" alt="Profile Views"/>
+</p>
+
+---
+
+### 💬 Let's Build Something Together
+
+<p align="center"><em>Open to meaningful collaboration, open-source contributions, or working on well-defined, impactful projects. Let’s connect.</em></p>
