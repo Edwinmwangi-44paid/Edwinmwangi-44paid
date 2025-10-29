@@ -30,10 +30,10 @@
   <a href="https://eduportifolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%231DA1F2?style=for-the-badge&logo=Portfolio&logoColor=white" />
   </a>
-  <a href="https://github.com/edwinmwangi-44paid" target="_blank">
+  <a href="https://github.com/Edwinmwangi-44paid" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/njuguna-kelvin" target="_blank">
+  <a href="https://www.linkedin.com/in/edwin-mwangi-9370b7313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/eduu254" target="_blank">
@@ -76,8 +76,8 @@
 ### GitHub At A Glance
 
 <p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=NjugunaKelvin&show_icons=true&theme=transparent" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NjugunaKelvin&layout=compact&theme=transparent" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=Edwinmwangi-44paid&show_icons=true&theme=transparent" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwinmwangi-44paid&layout=compact&theme=transparent" />
 </p>
 
 
@@ -85,7 +85,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NjugunaKelvin&style=for-the-badge&color=orange" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Edwinmwangi-44paid&style=for-the-badge&color=orange" alt="Profile Views"/>
 </p>
 
 ---
