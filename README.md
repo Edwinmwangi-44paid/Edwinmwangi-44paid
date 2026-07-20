@@ -1,18 +1,85 @@
-<!-- ========================================================= -->
-<!--                     GITHUB PROFILE README                  -->
-<!-- ========================================================= -->
-
-<h1 align="center">
-  Hi 👋, I'm Edwin Mwangi
-</h1>
+<h1 align="center">Hi 👋, I'm Edwin Mwangi</h1>
 
 <h3 align="center">
-Full Stack Software Engineer • AI Developer • Backend Architect • Problem Solver
+Full Stack Software Engineer • AI Developer • Backend Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1200&color=FFA500&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Engineer;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications;Clean+Architecture+Advocate;Always+Learning+Something+New" />
+Building scalable web applications, AI-powered tools, and backend systems.
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Full Stack Software Engineer from Nairobi, Kenya
+- 🤖 Passionate about AI, Machine Learning, and Automation
+- 🚀 Building scalable web applications and REST APIs
+- 🏗️ Interested in System Design, Cloud Computing, and Software Architecture
+- 📚 Always learning and exploring new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`Python` • `JavaScript` • `TypeScript` • `Java` • `SQL`
+
+**Frontend**
+
+React • Next.js • Vite • Tailwind CSS • HTML • CSS
+
+**Backend**
+
+Node.js • Express • Django • REST APIs
+
+**Databases**
+
+MongoDB • PostgreSQL • MySQL • Firebase
+
+**Cloud & DevOps**
+
+AWS • Docker • Linux • Git • GitHub Actions
+
+**AI**
+
+OpenAI • TensorFlow • PyTorch • LangChain • Hugging Face
+
+---
+
+## 🚀 What I Build
+
+- Full Stack Web Applications
+- REST APIs & Backend Services
+- AI-powered Applications
+- Automation Workflows
+- Modern Responsive User Interfaces
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 Portfolio: https://edwinw.netlify.app/
+- 📧 Email: edumwas4735@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/edwin-mwangi-9370b7313
+- 🐦 X: https://x.com/EduuYT554045
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Edwinmwangi-44paid&show_icons=true&theme=transparent" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edwinmwangi-44paid&theme=transparent" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwinmwangi-44paid&layout=compact&theme=transparent" />
+</p>
+
+---
+
+> *"Build software that people actually enjoy using."*
 
 <p align="center">
 
